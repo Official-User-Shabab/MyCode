@@ -20,9 +20,9 @@ are deleted).
      ART    ART     0
        ARTART       0
        
-See the ASCII Art used in the ASCII ART.txt file: https://
+See the ASCII Art used in the ASCII ART.txt file: https://github.com/Official-User-Shabab/Games/blob/main/Strange%20Survival/ASCII%20ART.txt
 #####
 
 ### CREDITS ###
 
-See credits text file (CREDITS.txt): https://
+See credits text file (CREDITS.txt): https://github.com/Official-UserShabab/Games/blob/main/Strange%20Survival/CREDITS.txt
