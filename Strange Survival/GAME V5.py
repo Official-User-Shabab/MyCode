@@ -12,7 +12,7 @@ def credits():
             time.sleep(1)
             print("  ")
             time.sleep(1)
-            print("Wu Ming: Main and overall developer; Development\n"
+            print("Shabab: Main and overall developer; Development\n"
             "Pingu: Ideas for introduction script; Innovation\n"
             "Phoenix: Ideas for breakoff and repeat functions; Innovation\n")
             nok1 = False
