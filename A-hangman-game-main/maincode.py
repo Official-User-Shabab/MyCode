@@ -3,8 +3,7 @@ import time
 
 # ERROR//BUG//FIXES LOGS
 # 1 I found out that some functions especially at the start is repeated many times. The duplicates should be removed.
-# 2 Working on the credits section...
-# 3 We really need to agree on using either lower() or higher()...
+# 2 Using .lower()
 
 
 #/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/#
