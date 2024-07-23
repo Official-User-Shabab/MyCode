@@ -1,4 +1,0 @@
-Codename    :   Title                                    ;    Role
-Shabab      :   Main and overall developer               ;    Development
-Pingu       :   Ideas for introduction script            ;    Innovation
-Phoenix     :   Ideas for breakoff and repeat functions  ;    Support
