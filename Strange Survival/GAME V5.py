@@ -1,6 +1,10 @@
 import random
 import time
 
+# A lot of if else statements make it less sustainable long term
+# Separate functions/classes for scenarios?
+# First map out all options in game first
+
 def credits():
     nok0 = True
     nok1 = True
@@ -12,9 +16,9 @@ def credits():
             time.sleep(1)
             print("  ")
             time.sleep(1)
-            print("Shabab: Main and overall developer; Development\n"
-            "Pingu: Ideas for introduction script; Innovation\n"
-            "Phoenix: Ideas for breakoff and repeat functions; Innovation\n")
+            print("Shabab: Development and Programming\n"
+            "Pingu: Innovation and Creativity\n"
+            "Phoenix: Support and Programming\n")
             nok1 = False
     
 def border():
