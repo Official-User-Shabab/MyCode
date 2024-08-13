@@ -16,15 +16,25 @@
 # Law and Literature
 
 # Subjects needed for some industry:
+
 # Engingeering:
 # Math
 # Further Math
 # Physics
 # Computer Science
 # Economics
+
 # Health:
 # Chemistry
 # Biology
 # Health and Social Care
 # Sociology
 # English
+
+# Finances and Production:
+# Math
+# Business
+# Economics
+# Further Math
+# DT
+# Psychology
