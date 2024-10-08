@@ -18,3 +18,4 @@
 # Hence the probability of falling in 1 colour is:
 # (L^2 - d^2) / (L^2)
 # Hence 1 - ThatAbove is the probability of hoop in 2 colors.
+echo "noice"
