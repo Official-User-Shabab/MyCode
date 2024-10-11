@@ -25,4 +25,4 @@ See the ASCII Art used in the ASCII ART.txt file: https://github.com/Official-Us
 
 ### CREDITS ###
 
-See credits text file (CREDITS.txt): [https://github.com/Official-UserShabab/Games/blob/main/Strange%20Survival/CREDITS.txt]([https://github.com/Official-User-Shabab/Games/blob/main/Strange%20Survival/CREDITS.txt](https://github.com/Official-User-Shabab/MyCode/blob/main/Strange%20Survival/CREDITS.md))
+See credits text file (CREDITS.md): [https://github.com/Official-UserShabab/Games/blob/main/Strange%20Survival/CREDITS.txt]([https://github.com/Official-User-Shabab/Games/blob/main/Strange%20Survival/CREDITS.txt](https://github.com/Official-User-Shabab/MyCode/blob/main/Strange%20Survival/CREDITS.md))
